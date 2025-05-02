@@ -1,7 +1,4 @@
-import intentResponses from './intentResponses.js';
-
-const API_KEY = 'AIzaSyBFOn-dX3USIeb16Dah3Dzd1xopI8buSxM';
-
+import intentResponses from "./intentResponse.js";
 
 const content = document.getElementById('content');
 const chatInput = document.getElementById('chatInput');
@@ -61,7 +58,7 @@ function handleIntentResponse(intent) {
 function getAnswer(question) {
     const enrichedQuestion = "Você é o 'Fala, FURIA!', um bot fanático pela FURIA. Use emojis, emoção e entusiasmo!\n\n" + question;
 
-    fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`, {
+    fetch('/api/gemini', {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

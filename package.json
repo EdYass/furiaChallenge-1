@@ -1,0 +1,27 @@
+{
+  "name": "falafuria",
+  "version": "1.0.0",
+  "description": "Desafio técnico para Assistente de Engenharia de Software - Challenge #1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdYass/furiaChallenge-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdYass/furiaChallenge-1/issues"
+  },
+  "homepage": "https://github.com/EdYass/furiaChallenge-1#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
