@@ -37,6 +37,8 @@ O Fala, FURIA! identifica automaticamente perguntas com base em palavras-chave e
 Para clonar o repositório pelo terminal, basta usar o seguinte comando:
 
     git clone https://github.com/EdYass/furiaChallenge-1.git
+    cd furiaChallenge-1
+    code .
 
 ### Configurar o projeto node
 
