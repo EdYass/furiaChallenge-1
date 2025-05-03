@@ -28,7 +28,8 @@ O Fala, FURIA! identifica automaticamente perguntas com base em palavras-chave e
       - Lineup cs
       - Lineup lol
       - Próximo jogo
-      - bora furia
+      - furiaaaa
+
 
 ## ▶️ Configuração e Avisos para uso
 
