@@ -42,10 +42,9 @@ Para clonar o repositório pelo terminal, basta usar o seguinte comando:
 
 ### Configurar o projeto node
 
-No terminal, dentro da pasta **falaFuria/**:
+No terminal, dentro da pasta **furiaChallenge-1/**:
 
-    npm init -y
-    npm install express dotenv node-fetch
+    npm install
 
 ### Aviso sobre a API Key e Backend
 
