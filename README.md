@@ -65,4 +65,4 @@ Crie um arquivo .env na raiz do projeto falafuria/ com o seguinte conteúdo:
 
       npm start
 
-Acessar a url: **http://localhost:3000/page/chatFuria**
+Acessar a url: **http://localhost:3000/page/chatFuria.html**
